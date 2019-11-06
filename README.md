@@ -8,5 +8,4 @@ A new social media platform
 * Private messages
 * News feed
 * Dark mode
-
-*a mobile app
+* Mobile app
